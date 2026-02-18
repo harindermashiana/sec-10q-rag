@@ -1,3 +1,8 @@
+[![Python](https://img.shields.io/badge/Python-3.9%2B-blue)](https://www.python.org/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+[![Code style: ruff](https://img.shields.io/badge/code%20style-ruff-000000)](https://github.com/astral-sh/ruff)
+[![Last commit](https://img.shields.io/github/last-commit/harindermashiana/sec-10q-rag)](https://github.com/harindermashiana/sec-10q-rag/commits/main)
+
 # SEC-Insight
 
 ## RAG-Powered Financial Filing Intelligence
